@@ -1,0 +1,5 @@
+?. says: “Hey, if this thing doesn’t exist, just give me undefined—don’t crash!”
+
+?? says: “Hey, if this thing is missing (null/undefined), here’s a backup value!”
+
+
